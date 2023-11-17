@@ -1,0 +1,44 @@
+{
+  "1337": {
+    "chainId": 1337,
+    "entrypoint": {
+      "address": "0x5ff137d4b0fdcd49dca30c7cf57e578a026d2789"
+    },
+    "bundler": {
+      "url": "http://localhost:3000/rpc"
+    },
+    "greeter": {
+      "address": "0x132A794e16F96D4B6cBfF8dD584D6cB3e6865fF8",
+      "hash": "7e6e971399660d9a5ce461cf1a05cb935589468d5435fa61910fe4d4864406c5"
+    },
+    "factory": {
+      "address": "0x6820e4dFBb2a124638CC1c952b5F694495e51f2F",
+      "hash": "f3b3cbc9fd550efc35086b8d8ae11310af56f566505fb14b939b3d4e65c8ef0d"
+    },
+    "paymaster": {
+      "address": "0x3c91718e749a9273b2167e4554355fe6221F48aE",
+      "hash": "01c27974ab45f3ca54a080b71dfc4c91ef8a2c8e03a003f7f296ea8e97f27f0c"
+    }
+  },
+  "11155111": {
+    "chainId": 11155111,
+    "entrypoint": {
+      "address": "0x5ff137d4b0fdcd49dca30c7cf57e578a026d2789"
+    },
+    "bundler": {
+      "url": "https://public.stackup.sh/api/v1/node/ethereum-sepolia"
+    },
+    "greeter": {
+      "address": "0xa80444e497D5B943cB2e412A51082D9b16120126",
+      "hash": "7e6e971399660d9a5ce461cf1a05cb935589468d5435fa61910fe4d4864406c5"
+    },
+    "factory": {
+      "address": "0x5fB895bA66D1F17075518880CbA4CF7cEfa9b830",
+      "hash": "f3b3cbc9fd550efc35086b8d8ae11310af56f566505fb14b939b3d4e65c8ef0d"
+    },
+    "paymaster": {
+      "address": "0xfd8Ef456dC1BE14a8c350F5687701B516f3Ca536",
+      "hash": "01c27974ab45f3ca54a080b71dfc4c91ef8a2c8e03a003f7f296ea8e97f27f0c"
+    }
+  }
+}
